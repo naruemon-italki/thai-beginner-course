@@ -6291,7 +6291,7 @@ function drainAchToastQueue() {
   toast.addEventListener('click', remove);
   // Slide in on the next frame, then auto-dismiss after the hold window.
   requestAnimationFrame(() => requestAnimationFrame(() => toast.classList.add('show')));
-  hideTimer = setTimeout(remove, 3500);
+  hideTimer = setTimeout(remove, 4500);
 }
 
 /* Roadmap progress fill (0–100%).
