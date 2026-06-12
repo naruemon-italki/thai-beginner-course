@@ -200,8 +200,7 @@ const GRAMMAR_SECTIONS = [
         <p><span class="th-particle">นะ ná</span> is also commonly combined with polite particles such as <span class="th-particle">ครับ kráp</span> and <span class="th-particle">ค่ะ kâ</span>, making the sentence sound both polite and friendly:</p>
         <p style="margin-left:0.8rem">
         <span class="th-particle">ระวังนะ rá wang ná</span> → Be careful. <em>(friendly warning)</em><br>
-        <span class="th-particle">ระวังนะครับ rá wang ná kráp</span> → Be careful. <em>(polite and friendly)</em><br>
-        <span class="th-particle">ระวังนะคะ rá wang ná ká</span> → Be careful. <em>(polite and friendly)</em>
+        <span class="th-particle">ระวังนะครับ rá wang ná kráp</span> → Be careful. <em>(polite and friendly)</em>
         </p>
         <p>Because it is so versatile, <span class="th-particle">นะ ná</span> appears constantly in everyday Thai. If you are unsure whether to use it, adding <span class="th-particle">นะ ná</span> will often make your Thai sound more natural, approachable, and less abrupt.</p>`
     },
